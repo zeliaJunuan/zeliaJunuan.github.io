@@ -4,11 +4,12 @@ layout: default
 
 # Soldiers' Letters Archive
 WWI & WWII – Decodification Project  
-[View My GitHub Profile](https://github.com/zeliaJunuan)
 
-<img src="/01-death-intoxicated.jpg"
-     alt="Death Intoxicated"
-     style="display:block; margin: 1.5rem 0; width:55%; max-width:550px;">
+
+<img 
+src="/01-death-intoxicated.jpg"
+alt="Death Intoxicated"
+style="display:block; margin: 1.5rem 0; width:55%; max-width:550px;">
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
 
