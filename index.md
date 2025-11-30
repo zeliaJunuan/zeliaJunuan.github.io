@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![image](/banner.jpg)
+<div style="width:100%; height:260px; overflow:hidden; border-radius:8px; margin-bottom:2rem;">
+  <div style="width:100%; height:100%; background-image:url('/banner.jpg'); background-size:cover; background-position:center;"></div>
+</div>
 
 
 # Soldiers' Letters Archive
