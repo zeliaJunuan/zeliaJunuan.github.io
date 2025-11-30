@@ -7,12 +7,6 @@ layout: default
      style="width:100%; height:260px; object-fit:cover; border-radius:8px; margin-bottom:2rem;">
 
 
-# Soldiers' Letters Archive
-
-_WWI & WWII – Decodification Project_
-
-[View My GitHub Profile](https://github.com/zeliajunuan)
-
 ---
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
