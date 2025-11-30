@@ -19,4 +19,6 @@ Instead, each entry contains:
 - [World War I letters](letters/ww1.md)
 - [World War II letters](letters/ww2.md)
   
-![Death Intoxicated](/01-death-intoxicated.jpg)
+<img src="/01-death-intoxicated.jpg"
+     alt="Death Intoxicated"
+     style="display:block; margin: 2rem 0 0 0; width:60%; max-width:600px;">
