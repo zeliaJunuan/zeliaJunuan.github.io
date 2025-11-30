@@ -8,10 +8,9 @@ banner_content: >
   We do not publish original scans or full transcriptions.
   Instead, each entry contains:
 
-    • Archive reference
-    • Date and place of writing
-    • Very short description of the sender and recipient
-    • A summary of the letter (decodification)
-    • Brief historical interpretation
+  - Archive reference
+  - Date and place of writing
+  - Very short description of the sender and recipient
+  - A summary of the letter (decodification)
+  - Brief historical interpretation
 ---
-
