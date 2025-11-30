@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!-- 顶部横幅（Notion 风格） -->
 <div style="width: 100%; height: 260px; overflow: hidden; border-radius: 8px; margin-bottom: 2rem;">
   <div style="
     width: 100%;
