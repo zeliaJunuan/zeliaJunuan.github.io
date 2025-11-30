@@ -11,14 +11,6 @@ background-size: cover;
 background-position: center;">
   
 
-# Soldiers' Letters Archive
-
-_WWI & WWII – Decodification Project_
-
-[View My GitHub Profile](https://github.com/zeliaJunuan)
-
----
-
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
 
 We **do not** publish original scans or full transcriptions.  
