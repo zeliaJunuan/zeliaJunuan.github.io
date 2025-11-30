@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Soldiers' Letters Archive
-subtitle: Decodification Project
+title: "Soldiers' Letters Archive"
+subtitle: "Decodification Project"
 banner_content: |
   This site collects summaries and interpretations of soldiers’ letters from World War I and World War II, based on documents consulted in national archives.
 
@@ -15,4 +15,4 @@ banner_content: |
   - Brief historical interpretation
 ---
 
-<!-- 这里开始是首页下面的内容，比如 Browse letters 的链接等 -->
+
