@@ -2,6 +2,7 @@
 layout: default
 ---
 title: Soldiers' Letters Archive
+
 ##Decodification Project
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
