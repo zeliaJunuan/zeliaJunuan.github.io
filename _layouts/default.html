@@ -22,6 +22,19 @@
       h1, h2, h3, h4 {
         font-family: 'PT Sans', sans-serif !important;
       }
+
+      /* 让 banner 里的介绍文字更好看一点 */
+      .banner .content .banner-text {
+        margin-top: 1.5rem;
+      }
+      .banner .content .banner-text p {
+        margin-bottom: 0.75rem;
+      }
+      .banner .content .banner-text ul {
+        margin-top: 0.5rem;
+        margin-left: 1.25rem;
+        text-align: left;
+      }
     </style>
   </head>
 
@@ -33,14 +46,23 @@
       <!-- Banner Section -->
       <section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
         <div class="content">
+          <!-- 主标题 -->
           <h1>{{ page.title }}</h1>
-          {% if page.description %}
-          <p class="major">{{ page.description }}</p>
+
+          <!-- 副标题（比如 Decodification Project）或简短描述 -->
+          {% if page.subtitle %}
+            <h2 class="major">{{ page.subtitle }}</h2>
+          {% elsif page.description %}
+            <p class="major">{{ page.description }}</p>
           {% endif %}
 
-          <!-- Intro paragraph (your introduction under the title) -->
-          {% if page.intro %}
-          <p>{{ page.intro }}</p>
+          <!-- 标题下面的一整段介绍（可以包含列表、粗体等 Markdown） -->
+          {% if page.banner_content %}
+            <div class="banner-text">
+              {{ page.banner_content | markdownify }}
+            </div>
+          {% elsif page.intro %}
+            <p>{{ page.intro }}</p>
           {% endif %}
         </div>
 
