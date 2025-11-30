@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Soldiers' Letters Archive
-WWI & WWII – Decodification Project  
-
-
 <img 
 src="/01-death-intoxicated.jpg"
 alt="Death Intoxicated"
