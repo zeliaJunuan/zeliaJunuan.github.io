@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<img src="/banner.jpg"
-     alt="Banner"
-     style="width:100%; height:260px; object-fit:cover; border-radius:8px; margin-bottom:2rem;">
-
-
----
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
 
