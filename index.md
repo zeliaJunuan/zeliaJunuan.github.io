@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![test banner](/01-death-intoxicacted.jpg)
+!banner(/01-death-intoxicacted.jpg)
 
 
 # Soldiers' Letters Archive
