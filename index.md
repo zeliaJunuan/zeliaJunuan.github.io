@@ -2,16 +2,25 @@
 layout: default
 ---
 
+<!-- 顶部横幅（Notion 风格） -->
 <div style="width: 100%; height: 260px; overflow: hidden; border-radius: 8px; margin-bottom: 2rem;">
   <div style="
     width: 100%;
     height: 100%;
-    background-image: url('/01-death-intoxicated.jpg');
+    background-image: url('/01-death-intoxicacted.jpg');
     background-size: cover;
     background-position: center;
   ">
   </div>
 </div>
+
+# Soldiers' Letters Archive
+
+_WWI & WWII – Decodification Project_
+
+[View My GitHub Profile](https://github.com/zeliaJunuan)
+
+---
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
 
