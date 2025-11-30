@@ -18,3 +18,5 @@ Instead, each entry contains:
 
 - [World War I letters](letters/ww1.md)
 - [World War II letters](letters/ww2.md)
+
+![Death Intoxicated](/html5up-editorial/images/death.jpg)
