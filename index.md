@@ -2,10 +2,16 @@
 layout: default
 ---
 
-<img 
-src="/01-death-intoxicated.jpg"
-alt="Death Intoxicated"
-style="display:block; margin: 1.5rem 0; width:55%; max-width:550px;">
+<div style="width: 100%; height: 260px; overflow: hidden; border-radius: 8px; margin-bottom: 2rem;">
+  <div style="
+    width: 100%;
+    height: 100%;
+    background-image: url('/01-death-intoxicated.jpg');
+    background-size: cover;
+    background-position: center;
+  ">
+  </div>
+</div>
 
 This site collects summaries and interpretations of soldiers' letters from World War I and World War II, based on documents consulted in national archives.
 
