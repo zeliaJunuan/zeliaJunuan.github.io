@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-title: "Soldiers' Letters – WWI & WWII"
-description: "Decodification project"
+markdown: kramdown
