@@ -2,7 +2,7 @@
 layout: default
 title: "Soldiers' Letters Archive"
 subtitle: "Decodification Project"
-banner_content: |
+banner_content:
   This site collects summaries and interpretations of soldiers’ letters from World War I and World War II,
   based on documents consulted in national archives.
 
@@ -15,3 +15,18 @@ banner_content: |
   - A summary of the letter (decodification)
   - Brief historical interpretation
 ---
+
+---
+layout: default
+title: "Browser"
+permalink: /browser/
+---
+
+<h1>Browser</h1>
+
+<ul>
+  <li><a href="/period/19th/">19th</a></li>
+  <li><a href="/period/ww1/">World War I</a></li>
+  <li><a href="/period/ww2/">World War II</a></li>
+  <li><a href="/period/post-bellum/">Post Bellum</a></li>
+</ul>
