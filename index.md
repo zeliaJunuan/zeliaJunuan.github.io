@@ -15,10 +15,7 @@ banner_content: |
   - A summary of the letter (decodification)
   - Brief historical interpretation
 ---
----
-layout: default
-title: "Browser"
-permalink: /browser/
+
 ---
 
 <h1>Browser</h1>
